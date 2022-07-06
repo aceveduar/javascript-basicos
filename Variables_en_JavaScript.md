@@ -1,27 +1,27 @@
 
 ## Variables en JavaScript
+Hay dos estados de una variable:
 
-Hay dos estados de una variable
-
-1. Declarar una variable 
+El primero es cuando se declara una variable.
 
 ```jsx
 var edad;
 ```
 
-1. Inicializar una variable
+El segundo es cuando se inicializa una variable.
 
 ```jsx
 edad = 28;
 ```
 
-Variables de arrays
+Podemos tener variables de arrays.
 
 ```jsx
 let elementos = ["Computadora", "Celular", "Tableta"]
 ```
 
-Objetos
+Podemos tener variables de objetos.
+
 ```jsx
 let persona = {
 	nombre: "Eduardo",
@@ -30,3 +30,5 @@ let persona = {
 
 persona();
 ```
+
+👌
