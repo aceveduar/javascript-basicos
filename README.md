@@ -7,36 +7,36 @@ Con este contenido podremos conocer los conceptos clave del lenguaje de programa
 - Aprender cómo tomar decisiones y validarlas
 - Trabajar con objetos
 
-[Qué es JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/que_es_javascript.md)
+[Qué es JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/Que_es_JavaScript.md)
 
 [Variables en JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/variables.md)
 
 [Funciones en JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/funciones.md)
 
-[Scope]()
+[Scope](https://github.com/aceveduar/javascript_basicos/blob/main/scope.md)
 
-[Hoisting]()
+[Hoisting](https://github.com/aceveduar/javascript_basicos/blob/main/hoisting.md)
 
-[Coerción]()
+[Coerción](https://github.com/aceveduar/javascript_basicos/blob/main/coercion.md)
 
-[Valores: Truthy y Falsy]()
+[Valores: Truthy y Falsy](https://github.com/aceveduar/javascript_basicos/blob/main/verdadero_falso.md)
 
-[Operadores: Asignación, Comparación y Aritméticos.]()
+[Operadores: Asignación, Comparación y Aritméticos.](https://github.com/aceveduar/javascript_basicos/blob/main/operadores.md)
 
-[Condicionales: If, else, else if]()
+[Condicionales: If, else, else if](https://github.com/aceveduar/javascript_basicos/blob/main/condicionales.md)
 
-[Switch]()
+[Switch](https://github.com/aceveduar/javascript_basicos/blob/main/switch.md)
 
-[Arrays]()
+[Arrays](https://github.com/aceveduar/javascript_basicos/blob/main/arrays.md)
 
-[Loops: For y For...of]()
+[Loops: For y For...of](https://github.com/aceveduar/javascript_basicos/blob/main/for.md)
 
-[Loops: While]()
+[Loops: While](https://github.com/aceveduar/javascript_basicos/blob/main/while.md)
 
-[Objects: Función constructoras]()
+[Objects: Función constructoras](https://github.com/aceveduar/javascript_basicos/blob/main/objetos)
 
-[Métodos de recorridos de Arrays]()
+[Métodos de recorridos de Arrays](https://github.com/aceveduar/javascript_basicos/blob/main/constructora.md)
 
-[Recorriendo Arrays con .find(), .forEach() y .some()]()
+[Recorriendo Arrays con .find(), .forEach() y .some()](https://github.com/aceveduar/javascript_basicos/blob/main/)
 
-[Eliminando elementos de un Array]()
+[Eliminando elementos de un Array](https://github.com/aceveduar/javascript_basicos/blob/main/)
