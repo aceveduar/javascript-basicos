@@ -1,7 +1,4 @@
-
-# JavaScript Básicos
-
-## ¿Qué es JavaScript?
+# ¿Qué es JavaScript?
 
 JavaScript es un lenguaje de programación dinámico que tiene la capacidad de ser utilizado en muchos dispositivos diferentes. Puede usarse en ordenadores personales, servidores web y teléfonos inteligentes. Es un lenguaje interpretado, orientado a objetos, débilmente tipado y dinámico.
 
