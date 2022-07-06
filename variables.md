@@ -1,5 +1,5 @@
 
-## Variables en JavaScript
+# Variables en JavaScript
 Hay dos estados de una variable:
 
 El primero es cuando se declara una variable.
