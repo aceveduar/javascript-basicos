@@ -7,36 +7,38 @@ Con este contenido podremos conocer los conceptos clave del lenguaje de programa
 - Aprender cómo tomar decisiones y validarlas
 - Trabajar con objetos
 
-[Qué es JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/Que_es_JavaScript.md)
 
-[Variables en JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/variables.md)
 
-[Funciones en JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/funciones.md)
+1. [Qué es JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/Que_es_JavaScript.md)
 
-[Scope](https://github.com/aceveduar/javascript_basicos/blob/main/scope.md)
+2. [Variables en JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/variables.md)
 
-[Hoisting](https://github.com/aceveduar/javascript_basicos/blob/main/hoisting.md)
+3. [Funciones en JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/funciones.md)
 
-[Coerción](https://github.com/aceveduar/javascript_basicos/blob/main/coercion.md)
+4. [Scope](https://github.com/aceveduar/javascript_basicos/blob/main/scope.md)
 
-[Valores: Truthy y Falsy](https://github.com/aceveduar/javascript_basicos/blob/main/verdadero_falso.md)
+5. [Hoisting](https://github.com/aceveduar/javascript_basicos/blob/main/hoisting.md)
 
-[Operadores: Asignación, Comparación y Aritméticos.](https://github.com/aceveduar/javascript_basicos/blob/main/operadores.md)
+6. [Coerción](https://github.com/aceveduar/javascript_basicos/blob/main/coercion.md)
 
-[Condicionales: If, else, else if](https://github.com/aceveduar/javascript_basicos/blob/main/condicionales.md)
+7. [Valores: Truthy y Falsy](https://github.com/aceveduar/javascript_basicos/blob/main/verdadero_falso.md)
 
-[Switch](https://github.com/aceveduar/javascript_basicos/blob/main/switch.md)
+8. [Operadores: Asignación, Comparación y Aritméticos.](https://github.com/aceveduar/javascript_basicos/blob/main/operadores.md)
 
-[Arrays](https://github.com/aceveduar/javascript_basicos/blob/main/arrays.md)
+9. [Condicionales: If, else, else if](https://github.com/aceveduar/javascript_basicos/blob/main/condicionales.md)
 
-[Loops: For y For...of](https://github.com/aceveduar/javascript_basicos/blob/main/for.md)
+10. [Switch](https://github.com/aceveduar/javascript_basicos/blob/main/switch.md)
 
-[Loops: While](https://github.com/aceveduar/javascript_basicos/blob/main/while.md)
+11. [Arrays](https://github.com/aceveduar/javascript_basicos/blob/main/arrays.md)
 
-[Objects: Función constructoras](https://github.com/aceveduar/javascript_basicos/blob/main/objetos)
+12. [Loops: For y For...of](https://github.com/aceveduar/javascript_basicos/blob/main/for.md)
 
-[Métodos de recorridos de Arrays](https://github.com/aceveduar/javascript_basicos/blob/main/constructora.md)
+13. [Loops: While](https://github.com/aceveduar/javascript_basicos/blob/main/while.md)
 
-[Recorriendo Arrays con .find(), .forEach() y .some()](https://github.com/aceveduar/javascript_basicos/blob/main/)
+14. [Objects: Función constructoras](https://github.com/aceveduar/javascript_basicos/blob/main/objetos)
 
-[Eliminando elementos de un Array](https://github.com/aceveduar/javascript_basicos/blob/main/)
+15. [Métodos de recorridos de Arrays](https://github.com/aceveduar/javascript_basicos/blob/main/constructora.md)
+
+16. [Recorriendo Arrays con .find(), .forEach() y .some()](https://github.com/aceveduar/javascript_basicos/blob/main/)
+
+17. [Eliminando elementos de un Array](https://github.com/aceveduar/javascript_basicos/blob/main/)
