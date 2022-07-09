@@ -1,44 +1,35 @@
-## JavaScript conceptos básicos
+# ¿Qué es JavaScript?
 
-Con este contenido podremos conocer los conceptos clave del lenguaje de programación que se está comiendo al mundo. Aprenderemos qué es una variable, una función, un objeto y dónde se guardan esos valores. Descubriremos qué es Scope y cómo se utilizan los loops. Obténdremos las herramientas para saber cómo tomar decisiones y validar acciones.
+JavaScript es un lenguaje de programación dinámico que tiene la capacidad de ser utilizado en muchos dispositivos diferentes. Puede usarse en ordenadores personales, servidores web y teléfonos inteligentes. Es un lenguaje interpretado, orientado a objetos, débilmente tipado y dinámico.
 
-- Conocer los conceptos básicos de JS
-- Descubrir la historia de JavaScript
-- Aprender cómo tomar decisiones y validarlas
-- Trabajar con objetos
+JavaScript se emplea comúnmente para el desarrollo web front-end y más recientemente para algunos desarrollos back-end a través de frameworks como Node.Js. o Next.Js. Tiene características como la programación orientada a objetos, funciones y herencia basada en prototipos.
 
+## ¿Cómo nace Javascript?
 
+Nace con la necesidad de generar dinamismo en las páginas web y que a su vez los usuarios y las empresas pudieran interactuar unos con otros. Fue creado por Brendan Eich en 1995 y se convirtió en un estándar oficial del World Wide Web Consortium (W3C) en 1997.
 
-1. [Qué es JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/Que_es_JavaScript.md)
+## ¿Por qué decimos que Javascript es un lenguaje dinámico?
 
-2. [Variables en JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/variables.md)
+Corre directamente en la etapa de Runtime, sin una etapa de compilación previa. Esto permite probar nuestro código inmediatamente; pero también es lo que hace que los errores no se muestren sino hasta que se ejecuta el programa. Lo que se ve a primera vista, cuando se analiza el código, es muy probable que no sea lo que se va a obtener cuando el programa se ejecute.
 
-3. [Funciones en JavaScript](https://github.com/aceveduar/javascript_basicos/blob/main/funciones.md)
+JavaScript permite declarar (por ejemplo) variables cuyo valor (y tipo) solo se conocerá al momento de su ejecución en función de las condiciones dadas al momento de correrlo en un entorno real. En cambio, los lenguajes estáticos no compilarán en código ejecutable a menos que todos los valores (o tipos de valores) se conozcan por adelantado.
 
-4. [Scope](https://github.com/aceveduar/javascript_basicos/blob/main/scope.md)
+## ¿Por qué es débilmente tipado?
 
-5. [Hoisting](https://github.com/aceveduar/javascript_basicos/blob/main/hoisting.md)
+Porque los tipos de datos no están bien definidos en el lenguaje y permite, por ejemplo, operaciones entre numerosos y letras. Esto sucede porque el lenguaje asume tipos de datos que no necesariamente fueron los que se querían representar. Se pueden hacer operaciones entre tipos distintos de datos (enteros con strings, booleanos con enteros, etc.). Ejemplo:
 
-6. [Coerción](https://github.com/aceveduar/javascript_basicos/blob/main/coercion.md)
+```jsx
+4 + "7"; // 47
+4 * "7"; // 28
+2 +true; // 3
+false - 3; // -3
 
-7. [Valores: Truthy y Falsy](https://github.com/aceveduar/javascript_basicos/blob/main/verdadero_falso.md)
+```
 
-8. [Operadores: Asignación, Comparación y Aritméticos.](https://github.com/aceveduar/javascript_basicos/blob/main/operadores.md)
+## ¿Realmente es Javascript un lenguaje interpretado?
 
-9. [Condicionales: If, else, else if](https://github.com/aceveduar/javascript_basicos/blob/main/condicionales.md)
+Sí, y la razón es que el navegador lee línea por línea nuestro código, el cual le indica lo que tiene que ir haciendo, sin la necesidad de compilar. Todo esto es controlado por el motor de Javascript V8 del navegador
 
-10. [Switch](https://github.com/aceveduar/javascript_basicos/blob/main/switch.md)
+## Qué significa que Javascript es Backwards Compatible
 
-11. [Arrays](https://github.com/aceveduar/javascript_basicos/blob/main/arrays.md)
-
-12. [Loops: For y For...of](https://github.com/aceveduar/javascript_basicos/blob/main/for.md)
-
-13. [Loops: While](https://github.com/aceveduar/javascript_basicos/blob/main/while.md)
-
-14. [Objects: Función constructoras](https://github.com/aceveduar/javascript_basicos/blob/main/objetos)
-
-15. [Métodos de recorridos de Arrays](https://github.com/aceveduar/javascript_basicos/blob/main/constructora.md)
-
-16. [Recorriendo Arrays con .find(), .forEach() y .some()](https://github.com/aceveduar/javascript_basicos/blob/main/)
-
-17. [Eliminando elementos de un Array](https://github.com/aceveduar/javascript_basicos/blob/main/)
+Todas las funciones nuevas que salen para Javascript no dañarán el trabajo ya hecho previamente, pero no se podrá utilizar en nuestro entorno de trabajo inmediatamente. Para solucionar esto está [Babel](https://platzi.com/blog/que-es-babel/), que permite usar las nuevas características del lenguaje, pero lo transforma a una versión que el navegador pueda entender.
