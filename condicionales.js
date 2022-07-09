@@ -1,6 +1,6 @@
 // Condicional if
 // Estructura de una condición if.
-if (true){
+if (true) {
     console.log("Hola mundo");
 }
 
@@ -9,11 +9,11 @@ if (true){
 // Este es un ejemplo de como usar un `else if`, sirve para validar más de una condición.
 let edad = 45;
 
-if(edad === 18){
+if (edad === 18) {
     console.log("Eres mayor de edad y puedes votar");
-} else if (edad > 18){
+} else if (edad > 18) {
     console.log("Puedes votar nuevamente");
-} else if (edad < 18){
+} else if (edad < 18) {
     console.log("No puedes votar");
 } else {
     console.log("Ingresa un valor valido");

@@ -1,5 +1,5 @@
 // Acceder a todos los elementos del array
-let frutas = ["Manzana","Plátano","Cereza","Fresa"];
+let frutas = ["Manzana", "Plátano", "Cereza", "Fresa"];
 console.log(frutas);
 
 // Conocer la longitud de mi array

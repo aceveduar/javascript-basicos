@@ -21,9 +21,8 @@ Porque los tipos de datos no están bien definidos en el lenguaje y permite, por
 ```jsx
 4 + "7"; // 47
 4 * "7"; // 28
-2 +true; // 3
+2 + true; // 3
 false - 3; // -3
-
 ```
 
 ## ¿Realmente es Javascript un lenguaje interpretado?
